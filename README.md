@@ -31,4 +31,4 @@ A Linux character driver that:
 
 ---
 
-📫 **Contact:** bharathr896@gmail.com | [LinkedIn](linkedin.com/in/bharath-r-709018133)
+📫 **Contact:** bharathr896@gmail.com | [LinkedIn](https://www.linkedin.com/in/bharath-r-709018133/)
